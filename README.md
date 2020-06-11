@@ -10,3 +10,9 @@ The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6
 Here is a batch of 128 images from CIFAR-10 dataset:
 
 ![Screenshot](https://github.com/nanekja/CIFAR-10/blob/master/images/cifar_10.png)
+
+
+
+| Model |Layers | Optimizer | Batch Size | Learning Rate | Validation Loss | Validation Accuracy |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
+| Logistic Regression | None | SGD | 128 | 286 | 289 | 285 | 
