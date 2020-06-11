@@ -15,4 +15,4 @@ Here is a batch of 128 images from CIFAR-10 dataset:
 
 | Model |Layers | Optimizer | Batch Size | Learning Rate | Validation Loss | Validation Accuracy |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
-| Logistic Regression | None | SGD | 128 | 286 | 289 | 285 | 
+| Logistic Regression | None | SGD | 128 | 0.05 | 1.792 | 0.3718 | 
