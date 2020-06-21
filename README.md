@@ -20,6 +20,6 @@ Here is a batch of 128 images from CIFAR-10 dataset:
 | CNN + FFNN | 12 | Adam | 128 | 0.001 | 5.8 M | 10 | TBD | 0.7675 |
 | CNN + FFNN v2 | 12 | Adam | 128 | 0.001 | 23.6 M | 20 | TBD | 0.8915 |
 | Vanilla CNN v1 | 16 | Adam | 128 | 0.001 | 1.18 M | 20 | TBD | 0.722 |
-| Vanilla CNN v2 | 12 | Adam | 128 | 0.001 | 855 k | 50 | TBD | 0.8382 |
+| Vanilla CNN v2 | 12 | Adam | 128 | 0.001 | 855 k | 50 | 34 min | 0.8382 |
 | CNN v1 | 12 | Adam | 400 | 0.01- 0.001 | 855 k | 50 | 24 min 46 sec| 0.8539 |
 | CNN v2 | 9 | Adam | 400 | 0.01- 0.001 | 788 k | 50 | 20 min | 0.8658 |
