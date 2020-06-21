@@ -15,11 +15,11 @@ Here is a batch of 128 images from CIFAR-10 dataset:
 
 | Model | Linear/Conv Layers | Optimizer | Batch Size | Learning Rate | Parameters | Epochs | Time | Validation Accuracy |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Logistic Regression | None | SGD | 128 | 0.05 | 30 k | TBD | TBD | 0.3718| 
-| Feed Forward Neural Network | 4 | SGD | 128 | 0.09 - 0.01 | 3.4 M | TBD | TBD | 0.5569 | 
-| CNN + FFNN | 12 | Adam | 128 | 0.001 | 5.8 M | TBD | TBD | 0.7675 |
-| CNN + FFNN v2 | 12 | Adam | 128 | 0.001 | 23.6 M | TBD | TBD | 0.8915 |
-| Vanilla CNN v1 | 16 | Adam | 128 | 0.001 | 1.18 M | TBD | TBD | 0.722 |
+| Logistic Regression | None | SGD | 128 | 0.05 | 30 k | 10 | TBD | 0.3718| 
+| FFNN | 4 | SGD | 128 | 0.09 - 0.01 | 3.4 M | 40 | TBD | 0.5569 | 
+| CNN + FFNN | 12 | Adam | 128 | 0.001 | 5.8 M | 10 | TBD | 0.7675 |
+| CNN + FFNN v2 | 12 | Adam | 128 | 0.001 | 23.6 M | 20 | TBD | 0.8915 |
+| Vanilla CNN v1 | 16 | Adam | 128 | 0.001 | 1.18 M | 20 | TBD | 0.722 |
 | Vanilla CNN v2 | 12 | Adam | 128 | 0.001 | 855 k | 50 | TBD | 0.8382 |
 | CNN v1 | 12 | Adam | 400 | 0.01- 0.001 | 855 k | 50 | 24m | 0.8539 |
 | CNN v2 | 9 | Adam | 400 | 0.01- 0.001 | 788 k | 50 | 20m | 0.8658 |
