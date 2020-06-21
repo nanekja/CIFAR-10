@@ -22,3 +22,4 @@ Here is a batch of 128 images from CIFAR-10 dataset:
 | Vanilla CNN v1 | 16 | Adam | 128 | 0.001 | 1.18 M | TBD | 0.722 |
 | Vanilla CNN v2 | 12 | Adam | 128 | 0.001 | 855 k | TBD | 0.8382 |
 | CNN v1 | 12 | Adam | 400 | 0.01- 0.001 | 855 k | 24m | 0.8539 |
+| CNN v2 | 9 | Adam | 400 | 0.01- 0.001 | 788 k | 20m | 0.8658 |
