@@ -11,7 +11,7 @@ Here is a batch of 128 images from CIFAR-10 dataset:
 
 ![Screenshot](https://github.com/nanekja/CIFAR-10/blob/master/images/cifar_10.png)
 
-
+![cifar10](https://miro.medium.com/max/709/1*LyV7_xga4jUHdx4_jHk1PQ.png)
 
 | Model | Linear/Conv Layers | Optimizer | Batch Size | Learning Rate | Parameters | Epochs | Time | Validation Accuracy |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
