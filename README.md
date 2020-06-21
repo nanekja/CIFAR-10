@@ -13,7 +13,7 @@ Here is a batch of 128 images from CIFAR-10 dataset:
 
 
 
-| Model | Linear/Conv Layers | Optimizer | Batch Size | Learning Rate | Parameters | Epocs | Time | Validation Accuracy |
+| Model | Linear/Conv Layers | Optimizer | Batch Size | Learning Rate | Parameters | Epochs | Time | Validation Accuracy |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Logistic Regression | None | SGD | 128 | 0.05 | 30 k | TBD | TBD | 0.3718| 
 | Feed Forward Neural Network | 4 | SGD | 128 | 0.09 - 0.01 | 3.4 M | TBD | TBD | 0.5569 | 
