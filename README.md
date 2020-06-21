@@ -7,11 +7,11 @@ In this repository, several approaches has been experimented on CIFAR-10 dataset
 
 The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images.
 
-Here is a batch of 128 images from CIFAR-10 dataset:
-
-![Screenshot](https://github.com/nanekja/CIFAR-10/blob/master/images/cifar_10.png)
-
+The following are the 10 classes in the CIFAR-10 dataset:
 ![cifar10](https://miro.medium.com/max/709/1*LyV7_xga4jUHdx4_jHk1PQ.png)
+
+Here is a batch of 128 images from CIFAR-10 dataset:
+![Screenshot](https://github.com/nanekja/CIFAR-10/blob/master/images/cifar_10.png)
 
 | Model | Linear/Conv Layers | Optimizer | Batch Size | Learning Rate | Parameters | Epochs | Time | Validation Accuracy |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
